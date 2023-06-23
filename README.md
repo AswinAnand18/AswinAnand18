@@ -26,8 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinanand18&show_icons=true&locale=en&layout=compact" alt="aswinanand18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinanand18&" alt="aswinanand18" /></p>
-
-
-
-as![okstandard-Copy](https://github.com/AswinAnand18/aswinanand/assets/91750339/6489d94a-109d-4da7-a93e-8afc369f8d97)
-a
